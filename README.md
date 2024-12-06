@@ -40,16 +40,12 @@ Here are the technologies and tools I work with:
   - Laravel Mix, Vue CLI, Webpack
   - Swagger/OpenAPI for API documentation
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ## 💬 Let's Connect
 
 I’m always open to discussing **projects**, **collaborations**, or **learning new things** in web development! Feel free to reach out:
 
-- 📧 Email: [amimi.achref@gmail.com](mailto:amimi.achref@gmail.com)
-- ❌ X: [@achraf_amimi](https://x.com/achraf_amimi)
-- 🌍 LinkedIn: [linkedin.com/in/achraf-amimi](https://www.linkedin.com/in/achraf-amimi-1e2/)
+- Email: [amimi.achref@gmail.com](mailto:amimi.achref@gmail.com)
+- X: [@achraf_amimi](https://x.com/achraf_amimi)
+- LinkedIn: [linkedin.com/in/achraf-amimi](https://www.linkedin.com/in/achraf-amimi-1e2/)
 
 Thanks for visiting my GitHub profile. Let's build something amazing together! 😄
