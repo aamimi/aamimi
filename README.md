@@ -1,6 +1,6 @@
-# 👋 Hello, I'm Achraf Amimi - Full Stack Laravel Developer
+# 👋 Hello, I'm Achraf Amimi - Full Stack Web Developer
 
-Welcome to my GitHub profile! I'm a passionate and experienced ✨ **Full Stack Laravel Developer** ✨ with over 7 years of experience in building and maintaining robust, scalable, and efficient web applications. I specialize in developing applications with Laravel, Vue.js, and modern web technologies, delivering solutions that meet both user needs and business goals.
+Welcome to my GitHub profile! I'm a passionate and experienced ✨ **Full Stack Web Developer** ✨ with over 7 years of experience in building and maintaining robust, scalable, and efficient web applications. I specialize in developing applications with Laravel, Vue.js, and modern web technologies, delivering solutions that meet both user needs and business goals.
 
 ## 🚀 About Me
 
@@ -27,7 +27,7 @@ Here are the technologies and tools I work with:
   - Vue.js (3.x), Blade templates
   - HTML5, CSS3, JavaScript (ES6+)
   - Tailwind CSS, Bootstrap
-  - Alpine.js, Vuex
+  - Alpine.js, Vuex, Livewire
 
 - **Version Control**:
   - Git, GitHub, GitLab
