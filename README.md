@@ -46,6 +46,6 @@ I’m always open to discussing **projects**, **collaborations**, or **learning 
 
 - Email: [amimi.achref@gmail.com](mailto:amimi.achref@gmail.com)
 - X: [@achraf_amimi](https://x.com/achraf_amimi)
-- LinkedIn: [linkedin.com/in/achraf-amimi](https://www.linkedin.com/in/achraf-amimi-1e2/)
+- LinkedIn: [linkedin.com/in/amimiachraf](https://www.linkedin.com/in/amimiachraf/)
 
 Thanks for visiting my GitHub profile. Let's build something amazing together! 😄
