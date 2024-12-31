@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate and experienced ✨ **Full Stack 
 Here are the technologies and tools I work with:
 
 - **Back-end**: 
-  - Laravel (7+ years experience)
+  - Laravel (7+ years experience), Filament
   - PHP (7+ years experience)
   - REST APIs, GraphQL
   - MySQL, PostgreSQL, SQLite
@@ -24,7 +24,7 @@ Here are the technologies and tools I work with:
   - PHPUnit, TDD, Pest
   
 - **Front-end**:
-  - Vue.js (3.x), Blade templates
+  - React, Vue.js (3.x), Blade templates
   - HTML5, CSS3, JavaScript (ES6+)
   - Tailwind CSS, Bootstrap
   - Alpine.js, Vuex, Livewire
